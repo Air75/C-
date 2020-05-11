@@ -1,0 +1,10 @@
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\obj\Debug\netcoreapp3.0\ClassCode1-3.AssemblyInfoInputs.cache
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\obj\Debug\netcoreapp3.0\ClassCode1-3.AssemblyInfo.cs
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\bin\Debug\netcoreapp3.0\ClassCode1-3.exe
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\bin\Debug\netcoreapp3.0\ClassCode1-3.deps.json
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\bin\Debug\netcoreapp3.0\ClassCode1-3.runtimeconfig.json
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\bin\Debug\netcoreapp3.0\ClassCode1-3.runtimeconfig.dev.json
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\bin\Debug\netcoreapp3.0\ClassCode1-3.dll
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\bin\Debug\netcoreapp3.0\ClassCode1-3.pdb
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\obj\Debug\netcoreapp3.0\ClassCode1-3.dll
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-3\obj\Debug\netcoreapp3.0\ClassCode1-3.pdb

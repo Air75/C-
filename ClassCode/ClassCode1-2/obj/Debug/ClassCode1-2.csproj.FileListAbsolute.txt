@@ -1,0 +1,9 @@
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\obj\Debug\ClassCode1-2.csprojAssemblyReference.cache
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\obj\Debug\ClassCode1_2.Form1.resources
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\obj\Debug\ClassCode1_2.Properties.Resources.resources
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\obj\Debug\ClassCode1-2.csproj.GenerateResource.cache
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\bin\Debug\ClassCode1-2.exe.config
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\bin\Debug\ClassCode1-2.exe
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\bin\Debug\ClassCode1-2.pdb
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\obj\Debug\ClassCode1-2.exe
+E:\代码\C#\18医信 18112840123 任杰\ClassCode\ClassCode1-2\obj\Debug\ClassCode1-2.pdb
